@@ -20,3 +20,4 @@ The changes will be fairly simple, and shouldn't take much time. The main reason
 
 How could have this buggy code gotten into the repo, if the pipeline was already in place? 
 
+fix applied
