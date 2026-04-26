@@ -1,6 +1,6 @@
 # DevTools Part 1
 
-Selected element: "<h2>"
+Selected element: '<h2>'
 
 One style applied: font-size: 1.5em;
 
